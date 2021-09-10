@@ -22,16 +22,16 @@ img{
 
 .conteudo{
     margin: 0 auto;
-    border: 1px solid red;
+    border: 1x solid red;
     max-width: 1000px;
 }
 header {
-    border: 1px solid red;
+    border: 0 solid red;
     max-width: 580px;
 
 }
 h2{
-    color: #9e2b1d; 
+    color: #9e2b1d;
     font-size: 40px;
 
 }
@@ -93,4 +93,35 @@ header h3{
 }
 .gp:hover{
     background-position: -484px bottom
+}
+.videoConteudo{
+    max-width: 640px;
+    max-height: 400px;
+    margin: 0 auto;
+
+}
+iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.video{
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+section{
+    background-color: #9e2b1d;
+    padding: 40px 0 60px;
+}
+section h1{
+    color: black;
+    text-transform: uppercase;
+    font-size:  40px;
+    font-weight: 500;
+    padding: 10px 0 15px;
 }
