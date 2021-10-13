@@ -22,6 +22,7 @@ img{
 
 .conteudo{
     margin: 0 auto;
+<<<<<<< HEAD
     border: 0;
     max-width: 1000px;
 }
@@ -32,6 +33,18 @@ header {
 }
 h3{
     color: #9e2b1d; 
+=======
+    border: 1x solid red;
+    max-width: 500px;
+}
+header {
+    border: 0 solid red;
+    max-width: 580px;
+
+}
+h2{
+    color: #9e2b1d;
+>>>>>>> b273f5b5a7b0326a4f534428b5ec2af4088c9eb8
     font-size: 40px;
 
 }
@@ -94,6 +107,7 @@ header h3{
 .gp:hover{
     background-position: -484px bottom
 }
+<<<<<<< HEAD
 section{
     background-color: #9e2b1d;
     padding: 40px 0 60px; 
@@ -107,12 +121,23 @@ section h1 {
 }
 iframe{
     position: relative;
+=======
+.videoConteudo{
+    max-width: 640px;
+    max-height: 400px;
+    margin: 0 auto;
+
+}
+iframe{
+    position: absolute;
+>>>>>>> b273f5b5a7b0326a4f534428b5ec2af4088c9eb8
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     border: 0;
 }
+<<<<<<< HEAD
 .video{
     position: absolute;
     overflow: hidden;
@@ -123,4 +148,46 @@ iframe{
     max-width:600px;
     max-height: 400px;
     margin: 0 auto;
+=======
+
+.video{
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+section{
+    background-color: #9e2b1d;
+    padding: 40px 0 60px;
+}
+section h1{
+    color: black;
+    text-transform: uppercase;
+    font-size:  40px;
+    font-weight: 500px;
+    padding: 10px 0 15px 0;
+}
+footer{
+    color: #656464;
+    background-color: #222121;
+    font-size: 14px;
+}
+footer a{
+    color:#999797;
+}
+footer a:hover{
+    color: #656464;
+}
+footer div{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 8px;
+}
+.logoRodape{
+    position: relative;
+    margin: 30px auto 20px;
+
+}
+.direitos{
+    letter-spacing: 0.3 px;
+>>>>>>> b273f5b5a7b0326a4f534428b5ec2af4088c9eb8
 }
