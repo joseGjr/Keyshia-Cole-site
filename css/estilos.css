@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
 *{
 margin: 0;
 padding: 0;
@@ -8,6 +10,7 @@ list-style: none;
 
 
 body{
+    font-family: 'Oswald', sans-serif;
     color: black;
     background-color: silver ;
     background: url("..//img/bg.jpg");
@@ -22,7 +25,6 @@ img{
 
 .conteudo{
     margin: 0 auto;
-<<<<<<< HEAD
     border: 0;
     max-width: 1000px;
 }
@@ -31,24 +33,12 @@ header {
     max-width: 580px;
 
 }
-h3{
+h1{
     color: #9e2b1d; 
-=======
-    border: 1x solid red;
-    max-width: 500px;
-}
-header {
-    border: 0 solid red;
-    max-width: 580px;
-
-}
-h2{
-    color: #9e2b1d;
->>>>>>> b273f5b5a7b0326a4f534428b5ec2af4088c9eb8
     font-size: 40px;
 
 }
-header h3{
+header h2{
     color: #9e2b1d;
     font-size: 21px;
     margin-top: 20px;
@@ -107,7 +97,6 @@ header h3{
 .gp:hover{
     background-position: -484px bottom
 }
-<<<<<<< HEAD
 section{
     background-color: #9e2b1d;
     padding: 40px 0 60px; 
@@ -121,39 +110,17 @@ section h1 {
 }
 iframe{
     position: relative;
-=======
-.videoConteudo{
-    max-width: 640px;
-    max-height: 400px;
-    margin: 0 auto;
-
-}
-iframe{
-    position: absolute;
->>>>>>> b273f5b5a7b0326a4f534428b5ec2af4088c9eb8
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     border: 0;
 }
-<<<<<<< HEAD
+
 .video{
     position: absolute;
     overflow: hidden;
-    padding-top: 100%;
-
-}
-.videoConteudo{
-    max-width:600px;
-    max-height: 400px;
-    margin: 0 auto;
-=======
-
-.video{
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
+    padding: top 20px;.25%;
 }
 section{
     background-color: #9e2b1d;
@@ -172,15 +139,15 @@ footer{
     font-size: 14px;
 }
 footer a{
-    color:#999797;
+    color:#999797
 }
 footer a:hover{
-    color: #656464;
+    color: #656464
 }
-footer div{
+footer div{ 
     display: inline-block;
     vertical-align: middle;
-    padding: 0 8px;
+    padding: 0 8px
 }
 .logoRodape{
     position: relative;
@@ -188,6 +155,22 @@ footer div{
 
 }
 .direitos{
-    letter-spacing: 0.3 px;
->>>>>>> b273f5b5a7b0326a4f534428b5ec2af4088c9eb8
+    letter-spacing: 0.8 px;
+}
+
+.redeSociais{
+    padding: 80px 0 40px;
+
+}
+.redeSociais a {
+    font-size: 35px;
+    color: #9e2b1d;
+    
+}
+.redeSociais a :hover{
+    color: white;
+}
+.redeSociais li {
+display: inline-block;
+padding: 0 15px ; 
 }
