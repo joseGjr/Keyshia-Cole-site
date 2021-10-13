@@ -94,3 +94,14 @@ header h3{
 .gp:hover{
     background-position: -484px bottom
 }
+section{
+    background-color: #9e2b1d;
+    padding: 40px 0 60px; 
+}
+section h1 {
+    color: #222121;
+    text-transform: uppercase ;
+    font-size:  40px ;
+    font-weight: 500px;
+    padding: 10px 0  15px ;
+}
