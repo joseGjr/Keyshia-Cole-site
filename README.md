@@ -20,7 +20,7 @@ Projeto desenvolvido para aprimorar meus conhecimentos em Html , Css .
 Esse foi o meu primeiro projeto , que me fez  tomar a decisão de me tornar um desenvolvedor front end.
 
 ### ✅ Demonstração
- <img src="./img/Captura de tela de 2022-02-01 17-52-02.png">
+ <img src="./img/Captura de tela de 2022-02-01 18-24-54.png">
 
 ### ⚙ Pré-requisitos
 
