@@ -1,41 +1,40 @@
-# Replicando Site Keyshia Cole
-# Exercitando html Css 
+# Keyshia Cole - Landing Page
 
+![Keyshia Cole](./img/main.jpg)
 
-<h1 align="center">
-    🚀 Replicando Site Keyshia Cole
-</h1>
+## Sobre o Projeto 🎶
+Este projeto é uma landing page dedicada à cantora Keyshia Cole, promovendo o álbum "11:11 Reset". A página apresenta um design moderno e interativo, permitindo aos fãs acessarem o álbum em diversas plataformas de streaming, além de visualizar um vídeo musical integrado.
 
-<p align="center">Keyshia Cole</p>
+## Tecnologias Utilizadas 🚀
+- **HTML5**: Estruturação semântica da página
+- **CSS3**: Estilização avançada e responsividade
+- **JavaScript**: Funcionalidades interativas
+- **Font Awesome**: Ícones personalizados
+- **YouTube Embed API**: Incorporação de vídeos
 
+## Recursos 📌
+✔️ Layout responsivo para diferentes dispositivos  
+✔️ Links diretos para plataformas de streaming  
+✔️ Integração com redes sociais  
+✔️ Vídeo incorporado diretamente do YouTube  
 
-<h3 align="center"> 
-🚧 Finalizado  🚧
-</h3>
+## Como Executar 📂
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Abra o arquivo `index.html` em um navegador.
 
+## Contato 📩
+Caso tenha sugestões ou queira contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-### 💻 Projeto
+🔗 **[Portfólio](https://seu-portfolio.com)**  
+📧 **Email:** seuemail@email.com
 
-Projeto desenvolvido para aprimorar meus conhecimentos em Html , Css .
-Esse foi o meu primeiro projeto , que me fez  tomar a decisão de me tornar um desenvolvedor front end.
+---
+📝 Projeto criado para fins educacionais e demonstração de habilidades em desenvolvimento web.
+
 
 ### ✅ Demonstração
  <img src="./img/Captura de tela de 2022-02-01 18-24-54.png">
-
-### ⚙ Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-
-### 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- Html
-- CSS
-
-
-Feito por José Jr.
 
